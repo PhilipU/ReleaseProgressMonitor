@@ -1,0 +1,20 @@
+{
+  "name": "releaseprogressmonitor",
+  "version": "1.0.0",
+  "description": "Show and modify current release project progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhilipU/ReleaseProgressMonitor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhilipU/ReleaseProgressMonitor/issues"
+  },
+  "homepage": "https://github.com/PhilipU/ReleaseProgressMonitor#readme"
+}
